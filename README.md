@@ -1,8 +1,6 @@
 # House_Price_Prediction
 
-# Create a bilingual (English + Turkish) README.md content
 
-readme_content = """
 # 🏠 House Price Prediction / Konut Fiyat Tahmini
 
 This project aims to predict house prices using machine learning models like **Linear Regression** and **Random Forest Regressor**.
